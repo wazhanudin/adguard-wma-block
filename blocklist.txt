@@ -2,6 +2,8 @@
 ! Title: AdGuard DNS filter blocklist
 ! Description: List composed of several filters
 ! Source: https://raw.githubusercontent.com/wazhanudin/adguard-wma-block/main/blocklist.txt
-! Last modified: 2024-08-02
+! Last modified: 2024-08-03
 
-||galootsmulcted.shop
+||galootsmulcted.shop^
+||rombleunships.click^
+||falcataplicae.shop^
