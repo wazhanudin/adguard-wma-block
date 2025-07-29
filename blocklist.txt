@@ -1,9 +1,28 @@
 !
-! Title: AdGuard DNS filter blocklist
-! Description: List composed of several filters
+! Title: AdGuard Home DNS Filter Blocklist
+! Description: List composed of several filters for personal used.
 ! Source: https://raw.githubusercontent.com/wazhanudin/adguard-wma-block/main/blocklist.txt
-! Last modified: 2024-08-23
-
+! Last modified: 2025-07-29
+!
+! Allow Malaysia tld
+@@||my^$important
+@@||com.my^$important
+!
+! Allow 9animetv.to - Vidstreaming
+@@||icyhailstorm64.wiki^$important
+@@||dewbreeze84.online^$important
+@@||thunderstrike77.online^$important
+@@||stormdrift27.site^$important
+@@||icyhailstorm29.online^$important
+@@||clearbluesky72.wiki^$important
+@@||breezygale56.online^$important
+!
+! Allow 9animetv.to - DouVideo
+@@||douvid.xyz^$important
+! Allow 9animetv.to - Vidcloud
+@@||betterstream.cc^$important
+!
+! Block Ads
 ||galootsmulcted.shop^
 ||rombleunships.click^
 ||falcataplicae.shop^
