@@ -16,6 +16,8 @@
 @@||icyhailstorm29.online^$important
 @@||clearbluesky72.wiki^$important
 @@||breezygale56.online^$important
+@@||drizzleshower19.site^$important
+@@||tempestcloud61.wiki^$important
 !
 ! Allow 9animetv.to - DouVideo
 @@||douvid.xyz^$important
