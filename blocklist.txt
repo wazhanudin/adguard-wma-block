@@ -2,7 +2,7 @@
 ! Title: AdGuard Home DNS Filter Blocklist
 ! Description: List composed of several filters for personal used.
 ! Source: https://raw.githubusercontent.com/wazhanudin/adguard-wma-block/main/blocklist.txt
-! Last modified: 2025-07-29
+! Last modified: 2026-07-01
 !
 ! Allow Malaysia tld
 @@||my^$important
